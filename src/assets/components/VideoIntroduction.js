@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
-
+import photo1 from "../images/videointroduction/1.svg";
+import photo2 from "../images/videointroduction/2.svg";
 function VideoIntroduction() {
   return (
     <div>
@@ -9,12 +10,16 @@ function VideoIntroduction() {
         <Col md={6} className="p-4">
           <h2>Our Video Introductions</h2>
           <p>
-            Velit purus egestas tellus phasellus. Mattis eget sed faucibus magna
+            Velit purus egestas tellus phasellus. Mattis eget sed faucibus magna<br/>
             vulputate pellentesque a diam tincidunt.
           </p>
-          <div className="mb-3">
+          <br/>
+          <div className="mb-4">
             <h5>
-              <span style={{ color: "#FFA229" }}>●</span> Explore ideas together
+              <span style={{ color: "#FFA229" }}>
+                <img src={photo1}
+                alt='' />
+              </span> Explore ideas together
             </h5>
             <p>
               Engage audience segments and finally create actionable insights.
@@ -22,7 +27,10 @@ function VideoIntroduction() {
           </div>
           <div>
             <h5>
-              <span style={{ color: "#FFA229" }}>●</span> Bring those ideas to
+              <span style={{ color: "#FFA229" }}>
+              <img src={photo2}
+                alt='' />
+              </span> Bring those ideas to
               life
             </h5>
             <p>

@@ -8,6 +8,7 @@ function FreelanceBusinessSection() {
         <h2>Trusted By Over 100+ Startups and freelance business</h2>
         <img src={logoimg}
             alt=' Startups logo'
+            width={"100%"}
         />
     </div>
   );
