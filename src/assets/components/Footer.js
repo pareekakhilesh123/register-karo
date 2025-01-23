@@ -1,4 +1,4 @@
- import React from 'react';
+import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import facebook from '../images/footer/Social platforms logos.png';
 import google from '../images/footer/Social platforms logos (1).png';
@@ -87,7 +87,6 @@ const Footer = () => {
               <li className="mb-2">
                 <a href="#" className="text-light text-decoration-none">About Us</a>
 
-> akhilesh pareek:
 </li>
               <li className="mb-2">
                 <a href="#" className="text-light text-decoration-none">News</a>
