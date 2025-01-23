@@ -4,7 +4,7 @@ import Groupphoto from "../images/about/Group.png"
 
 function About() {
   return (
-    <Container fluid className="mt-5" style={{height:"572px"}}>
+    <Container fluid className="mt-5" >
       <Row className="align-items-center" >
       
         <Col md={7} className="text-start" style={{paddingLeft:"40px"}} >
@@ -42,7 +42,7 @@ function About() {
           </Button>
         </Col>
 
-        <Col md={5} className="text-center">
+        <Col md={5} className="text-center my-4">
           <img
             src={Groupphoto}
             alt="About Register Karo"
@@ -50,7 +50,15 @@ function About() {
             style={{ borderRadius: "10px" }}
             width={584}
             height={422}
+
+            
           />
+
+
+
+
+
+          
         </Col>
       </Row>
     </Container>

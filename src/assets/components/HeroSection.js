@@ -79,30 +79,29 @@ const HeroSection = () => {
           </Col>
         </Row>
       </Container>
-
       <div
-        className="d-flex flex-column gap-3 position-absolute"
-        style={{ top: "50%", right: "2%", transform: "translateY(-50%)" }}
-      >
-        {[
-          "Annual Compliance",
-          "Payroll Services",
-          "Company Formation",
-          "Annual Compliance",
-        ].map((text, index) => (
-          <div
-            key={index}
-            className="p-3 custom-card text-center"
-            style={{
-              borderRadius: "10px",
-              boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-              backgroundColor: "white",
-            }}
-          >
-            {text}
-          </div>
-        ))}
-      </div>
+  className="d-none d-lg-flex flex-column gap-3 position-absolute"
+  style={{ top: "50%", right: "2%", transform: "translateY(-50%)" }}
+>
+  {[
+    "Annual Compliance",
+    "Payroll Services",
+    "Company Formation",
+    "Annual Compliance",
+  ].map((text, index) => (
+    <div
+      key={index}
+      className="p-3 custom-card text-center"
+      style={{
+        borderRadius: "10px",
+        boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+        backgroundColor: "white",
+      }}
+    >
+      {text}
+    </div>
+  ))}
+</div>
     </div>
   );
 };
