@@ -1,0 +1,64 @@
+import React from 'react'
+import { Container, Row, Col } from "react-bootstrap";
+
+function VideoIntroduction() {
+  return (
+    <div>
+           <Container fluid className="py-5" style={{ backgroundColor: "#1C4670" }}>
+      <Row className="align-items-center text-white">
+        <Col md={6} className="p-4">
+          <h2>Our Video Introductions</h2>
+          <p>
+            Velit purus egestas tellus phasellus. Mattis eget sed faucibus magna
+            vulputate pellentesque a diam tincidunt.
+          </p>
+          <div className="mb-3">
+            <h5>
+              <span style={{ color: "#FFA229" }}>●</span> Explore ideas together
+            </h5>
+            <p>
+              Engage audience segments and finally create actionable insights.
+            </p>
+          </div>
+          <div>
+            <h5>
+              <span style={{ color: "#FFA229" }}>●</span> Bring those ideas to
+              life
+            </h5>
+            <p>
+              Engage audience segments and finally create actionable insights.
+            </p>
+          </div>
+        </Col>
+        <Col md={6} className="text-center">
+          <div
+            style={{
+              position: "relative",
+              width: "100%",
+              paddingBottom: "56.25%",
+            }}
+          >
+            <iframe
+              src="https://www.youtube.com/embed/your-video-id"
+              title="Video Introduction"
+              style={{
+                position: "absolute",
+                top: 0,
+                left: 0,
+                width: "100%",
+                height: "100%",
+                borderRadius: "10px",
+              }}
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </Col>
+      </Row>
+    </Container>
+    </div>
+  )
+}
+
+export default VideoIntroduction
