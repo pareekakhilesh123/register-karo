@@ -34,7 +34,7 @@ const HeroSection = () => {
                     width={24}
                     alt=""
                     className="m-1"
-                  loading="lazy"
+                 
                   />
                   <strong>4.5+</strong> Customer Rating
                 </span>
@@ -45,7 +45,7 @@ const HeroSection = () => {
                     width={24}
                     alt=""
                     className="m-1"
-                       loading="lazy"
+                    
                   />
                   <strong>20,000+</strong> Clients
                 </span>
@@ -56,7 +56,7 @@ const HeroSection = () => {
                     width={24}
                     alt=""
                     className="m-1"
-                       loading="lazy"
+                     
                   />
                   <strong>99.8%</strong> Financial Stability
                 </span>
@@ -69,7 +69,7 @@ const HeroSection = () => {
                   <strong>Talk An Expert</strong>
                 </Button>
                 <span>
-                  <img src={play} className="m-1" alt="Play Icon" loading="lazy" />
+                  <img src={play} className="m-1" alt="Play Icon"  />
                   See how it works
                 </span>
               </div>
@@ -77,7 +77,7 @@ const HeroSection = () => {
           </Col>
           <Col md={6} className="text-center">
             <div className="image-section">
-              <img src={Right} alt="Hero Illustration" className="img-fluid"    loading="lazy" />
+              <img src={Right} alt="Hero Illustration" className="img-fluid"   />
             </div>
           </Col>
         </Row>
