@@ -55,9 +55,10 @@ function VideoIntroduction() {
                 paddingBottom: "56.25%",
               }}
             >
-              {/* <iframe
+              <iframe
                 src="https://www.youtube.com/embed"
                 title="Video Introduction"
+                  loading="lazy"
                 style={{
                   position: "absolute",
                   top: 0,
@@ -71,7 +72,7 @@ function VideoIntroduction() {
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
-              ></iframe> */}
+              ></iframe>
             </div>
           </Col>
         </Row>
