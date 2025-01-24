@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button, Badge } from 'react-bootstrap';
-import photo1 from "../images/bloglayout/Image.png";
-import photo2 from "../images/bloglayout/Image (1).png";
-import photo3 from "../images/bloglayout/Image (2).png";
-import photo4 from "../images/bloglayout/Image (3).png";
-import photo5 from "../images/bloglayout/Image (4).png";
-import photo6 from "../images/bloglayout/Image (5).png";
+import photo1 from "../images/bloglayout/Image.webp";
+import photo2 from "../images/bloglayout/Image (1).webp";
+import photo3 from "../images/bloglayout/Image (2).webp";
+import photo4 from "../images/bloglayout/Image (3).webp";
+import photo6 from "../images/bloglayout/Image (5).webp";
+import photo5 from "../images/bloglayout/Image (4).webp";
 
 const BlogLayout = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import content from "../images/SubscriptionForm/Content.png"
+import content from "../images/SubscriptionForm/Content.webp"
 
 function SubscriptionForm() {
   return (

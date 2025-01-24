@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Sectionbackground.css'
-import logoimg from "../images/FreelancebBusinessSection/Logos.png"
+import logoimg from "../images/FreelancebBusinessSection/Logos.webp"
 
 function FreelanceBusinessSection() {
   return (

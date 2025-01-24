@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container , Button} from 'react-bootstrap'
-import ourclinet from "../images/ourclients/Pagination.png"
+import ourclinet from "../images/ourclients/Pagination.webp"
 
 function OurHappyClinet() {
     return (

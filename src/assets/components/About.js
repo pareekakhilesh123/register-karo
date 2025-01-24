@@ -1,6 +1,6 @@
 import React from "react";
-import { Card, Button, Row, Col, Container } from "react-bootstrap";
-import Groupphoto from "../images/about/Group.png"
+import {  Button, Row, Col, Container } from "react-bootstrap";
+import Groupphoto from "../images/about/Group.webp"
 
 function About() {
   return (

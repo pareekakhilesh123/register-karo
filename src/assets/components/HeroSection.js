@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import "../styles/HeroSection.css";
 import Right from "../images/hero/HeroSectionright.webp";
-import widget from "../images/hero/widget.png";
+import widget from "../images/hero/widget.webp";
 import play from "../images/hero/play.svg";
 
 const HeroSection = () => {

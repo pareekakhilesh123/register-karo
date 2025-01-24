@@ -1,5 +1,5 @@
 import React from 'react'
-import mobilephoto from "../images/MobileAppServices/mobilephoto.png"
+import mobilephoto from "../images/MobileAppServices/mobilephoto.webp"
 import play from "../images/MobileAppServices/playstroe.png"
 import app from "../images/MobileAppServices/applestroe.png"
 
