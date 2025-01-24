@@ -1,9 +1,5 @@
 import React, { Suspense } from "react";
  
-import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
-
- 
 const HeroSection = React.lazy(() => import("./assets/components/HeroSection"));
 const Header = React.lazy(() => import("./assets/components/Header"));
 const FreelanceBusinessSection = React.lazy(() =>
