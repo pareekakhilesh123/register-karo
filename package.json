@@ -2,7 +2,7 @@
   "name": "register-karo",
   "version": "0.1.0",
   "private": true,
-
+  "homepage": "https://pareekakhilesh123.github.io/register-karo",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
