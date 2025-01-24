@@ -34,6 +34,7 @@ const HeroSection = () => {
                     width={24}
                     alt=""
                     className="m-1"
+                    loading="eager"
                  
                   />
                   <strong>4.5+</strong> Customer Rating

@@ -16,7 +16,8 @@ function Header() {
           <img
             src={logo}
             alt="RegisterKaro"
-            loading="lazy"
+            loading="eager"
+            
            /> 
          
         </Navbar.Brand>
