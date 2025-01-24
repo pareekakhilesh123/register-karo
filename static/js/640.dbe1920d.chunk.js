@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkregister_karo=self.webpackChunkregister_karo||[]).push([[640],{807:(e,s,r)=>{r.r(s),r.d(s,{default:()=>c});r(5043);const a=r.p+"static/media/Logos.7da7e3b29d08807c6ff9.webp";var t=r(579);const c=function(){return(0,t.jsxs)("div",{className:"Sectionbackground",children:[(0,t.jsx)("h2",{children:"Trusted By Over 100+ Startups and freelance business"}),(0,t.jsx)("img",{src:a,alt:" Startups logo",width:"100%",loading:"lazy"})]})}}}]);
+//# sourceMappingURL=640.dbe1920d.chunk.js.map
