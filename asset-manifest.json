@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/register-karo/static/css/main.8ca150b5.css",
-    "main.js": "/register-karo/static/js/main.c8984417.js",
+    "main.js": "/register-karo/static/js/main.aa0d2495.js",
     "static/css/326.31d6cfe0.chunk.css": "/register-karo/static/css/326.31d6cfe0.chunk.css",
     "static/js/326.c2c5ebd9.chunk.js": "/register-karo/static/js/326.c2c5ebd9.chunk.js",
     "static/css/722.1ac51c49.chunk.css": "/register-karo/static/css/722.1ac51c49.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/745.bfcf1a5d.chunk.js": "/register-karo/static/js/745.bfcf1a5d.chunk.js",
     "static/js/979.e8292340.chunk.js": "/register-karo/static/js/979.e8292340.chunk.js",
     "static/js/345.3a217fe8.chunk.js": "/register-karo/static/js/345.3a217fe8.chunk.js",
-    "static/js/186.326e6b10.chunk.js": "/register-karo/static/js/186.326e6b10.chunk.js",
+    "static/js/186.29deaa3e.chunk.js": "/register-karo/static/js/186.29deaa3e.chunk.js",
     "static/js/806.25858581.chunk.js": "/register-karo/static/js/806.25858581.chunk.js",
     "static/js/835.bee0b175.chunk.js": "/register-karo/static/js/835.bee0b175.chunk.js",
     "static/js/799.a2fe2929.chunk.js": "/register-karo/static/js/799.a2fe2929.chunk.js",
@@ -45,7 +45,7 @@
     "index.html": "/register-karo/index.html",
     "static/media/play.svg": "/register-karo/static/media/play.23f6021280d5c5b6a456c0fe8a7153f4.svg",
     "main.8ca150b5.css.map": "/register-karo/static/css/main.8ca150b5.css.map",
-    "main.c8984417.js.map": "/register-karo/static/js/main.c8984417.js.map",
+    "main.aa0d2495.js.map": "/register-karo/static/js/main.aa0d2495.js.map",
     "326.c2c5ebd9.chunk.js.map": "/register-karo/static/js/326.c2c5ebd9.chunk.js.map",
     "722.1ac51c49.chunk.css.map": "/register-karo/static/css/722.1ac51c49.chunk.css.map",
     "722.512564d5.chunk.js.map": "/register-karo/static/js/722.512564d5.chunk.js.map",
@@ -53,7 +53,7 @@
     "745.bfcf1a5d.chunk.js.map": "/register-karo/static/js/745.bfcf1a5d.chunk.js.map",
     "979.e8292340.chunk.js.map": "/register-karo/static/js/979.e8292340.chunk.js.map",
     "345.3a217fe8.chunk.js.map": "/register-karo/static/js/345.3a217fe8.chunk.js.map",
-    "186.326e6b10.chunk.js.map": "/register-karo/static/js/186.326e6b10.chunk.js.map",
+    "186.29deaa3e.chunk.js.map": "/register-karo/static/js/186.29deaa3e.chunk.js.map",
     "806.25858581.chunk.js.map": "/register-karo/static/js/806.25858581.chunk.js.map",
     "835.bee0b175.chunk.js.map": "/register-karo/static/js/835.bee0b175.chunk.js.map",
     "799.a2fe2929.chunk.js.map": "/register-karo/static/js/799.a2fe2929.chunk.js.map",
@@ -70,6 +70,6 @@
   },
   "entrypoints": [
     "static/css/main.8ca150b5.css",
-    "static/js/main.c8984417.js"
+    "static/js/main.aa0d2495.js"
   ]
 }
