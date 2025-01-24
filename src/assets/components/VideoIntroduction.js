@@ -50,7 +50,7 @@ function VideoIntroduction() {
             }}
           >
             <iframe
-              src="https://www.youtube.com/embed/your-video-id"
+              src="https://www.youtube.com"
               title="Video Introduction"
               style={{
                 position: "absolute",
@@ -60,7 +60,7 @@ function VideoIntroduction() {
                 height: "100%",
                 borderRadius: "10px",
               }}
-              frameBorder="0"
+           
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>
