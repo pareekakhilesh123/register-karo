@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/register-karo/static/css/main.b0c4da4f.css",
-    "main.js": "/register-karo/static/js/main.e283ef98.js",
+    "main.css": "/register-karo/static/css/main.03f16e58.css",
+    "main.js": "/register-karo/static/js/main.00a0a2f4.js",
     "static/js/488.8958039f.chunk.js": "/register-karo/static/js/488.8958039f.chunk.js",
     "static/media/Group.png": "/register-karo/static/media/Group.d7d64e434528c438e71c.png",
     "static/media/mobilephoto.png": "/register-karo/static/media/mobilephoto.9ba44f3526d24256d645.png",
@@ -14,20 +14,20 @@
     "static/media/bootstrap-icons.woff2?": "/register-karo/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/Image (3).png": "/register-karo/static/media/Image (3).d49e936a1d104639d401.png",
     "static/media/Pagination.png": "/register-karo/static/media/Pagination.19f395417d26e57ab27d.png",
-    "static/media/HeroSectionright.png": "/register-karo/static/media/HeroSectionright.a7c79d467ece033c2089.png",
     "static/media/Content.png": "/register-karo/static/media/Content.4db900767597f9b82ee3.png",
     "static/media/Logos.png": "/register-karo/static/media/Logos.399502c01f96767a2743.png",
+    "static/media/HeroSectionright.webp": "/register-karo/static/media/HeroSectionright.b3da35c06c834077d6c5.webp",
     "static/media/widget.png": "/register-karo/static/media/widget.cfe4101758aa3c96079e.png",
     "static/media/2.svg": "/register-karo/static/media/2.b048def6eaf3fd2f63555b3015f0c4ef.svg",
     "static/media/1.svg": "/register-karo/static/media/1.611accd9b6c73db742be767afae8c27c.svg",
     "index.html": "/register-karo/index.html",
     "static/media/play.svg": "/register-karo/static/media/play.23f6021280d5c5b6a456c0fe8a7153f4.svg",
-    "main.b0c4da4f.css.map": "/register-karo/static/css/main.b0c4da4f.css.map",
-    "main.e283ef98.js.map": "/register-karo/static/js/main.e283ef98.js.map",
+    "main.03f16e58.css.map": "/register-karo/static/css/main.03f16e58.css.map",
+    "main.00a0a2f4.js.map": "/register-karo/static/js/main.00a0a2f4.js.map",
     "488.8958039f.chunk.js.map": "/register-karo/static/js/488.8958039f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0c4da4f.css",
-    "static/js/main.e283ef98.js"
+    "static/css/main.03f16e58.css",
+    "static/js/main.00a0a2f4.js"
   ]
 }
