@@ -50,6 +50,7 @@ function About() {
             style={{ borderRadius: "10px" }}
             width={584}
             height={422}
+            loading="lazy"
 
             
           />

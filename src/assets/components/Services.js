@@ -55,6 +55,7 @@ const Services = () => {
                   src={service.image}
                   alt={service.title}
                   style={{ height: "60px", width: "60px", marginBottom: "1rem" }}
+                  loading="lazy"
                 />
               </div>
               <Card.Body>

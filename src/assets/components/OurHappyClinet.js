@@ -15,6 +15,7 @@ function OurHappyClinet() {
             <img src={ourclinet}
                     alt='our clinet logo'
                 width={"100%"}
+                  loading="lazy"
                     />
                      <Button variant=" d " className="text-primary p-0 fw-bolder ">
                   See More →  <i className="fas fa-arrow-right"></i>

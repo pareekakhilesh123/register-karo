@@ -9,6 +9,7 @@ function FreelanceBusinessSection() {
         <img src={logoimg}
             alt=' Startups logo'
             width={"100%"}
+            loading="lazy"
         />
     </div>
   );

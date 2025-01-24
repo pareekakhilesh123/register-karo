@@ -70,6 +70,7 @@ const BlogLayout = () => {
                   variant="top"
                   src={blog.img}  
                   alt={`Blog Image ${index + 1}`}
+                    loading="lazy"
                 />
                 <Card.Body>
                 

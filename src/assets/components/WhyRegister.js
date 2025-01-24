@@ -32,6 +32,7 @@ function WhyRegister() {
                   src={symbol1}
                   alt="Guaranteed Satisfaction"
                   style={{ width: "50px", height: "50px" }}
+                  loading="lazy"
                 />
               </div>
               <Card.Title>Guaranteed Satisfaction</Card.Title>
@@ -52,6 +53,7 @@ function WhyRegister() {
                   src={symbol3}
                   alt="Guaranteed Satisfaction"
                   style={{ width: "50px", height: "50px" }}
+                  loading="lazy"
                 />
               </div>
               <Card.Title>Guaranteed Satisfaction</Card.Title>
@@ -75,6 +77,7 @@ function WhyRegister() {
                   src={symbol2}
                   alt="No Hidden Fee"
                   style={{ width: "50px", height: "50px" }}
+                  loading="lazy"
                 />
               </div>
               <Card.Title>No Hidden Fee</Card.Title>
@@ -96,6 +99,7 @@ function WhyRegister() {
                   src={symbol3}
                   alt="Guaranteed Satisfaction"
                   style={{ width: "50px", height: "50px" }}
+                    loading="lazy"
                 />
               </div>
               <Card.Title>Guaranteed Satisfaction</Card.Title>
@@ -117,6 +121,7 @@ function WhyRegister() {
                   src={symbol4}
                   alt="Expert CA/CS Assistance"
                   style={{ width: "50px", height: "50px" }}
+                    loading="lazy"
                 />
               </div>
               <Card.Title>Expert CA/CS Assistance</Card.Title>

@@ -15,25 +15,25 @@ const Process = () => {
                <Row className="">
                  <Col xs={3}>
                    <div>
-                     <img src={icon1} alt="Icon 1" className="mb-2" />
+                     <img src={icon1} alt="Icon 1" className="mb-2"    loading="lazy"/>
                      <p>Fill up Application Form</p>
                    </div>
                  </Col>
                  <Col xs={3}>
                    <div>
-                     <img src={icon2} alt="Icon 2" className="mb-2" />
+                     <img src={icon2} alt="Icon 2" className="mb-2"   loading="lazy" />
                      <p>Make Online Payment</p>
                    </div>
                  </Col>
                  <Col xs={3}>
                    <div>
-                     <img src={icon3} alt="Icon 3" className="mb-2" />
+                     <img src={icon3} alt="Icon 3" className="mb-2"    loading="lazy"/>
                      <p>Executive will Process Application</p>
                    </div>
                  </Col>
                  <Col xs={3}>
                    <div>
-                     <img src={icon4} alt="Icon 4" className="mb-2" />
+                     <img src={icon4} alt="Icon 4" className="mb-2"    loading="lazy"/>
                      <p>Get Confirm Mail</p>
                    </div>
                  </Col>

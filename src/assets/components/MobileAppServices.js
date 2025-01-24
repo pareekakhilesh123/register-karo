@@ -27,6 +27,7 @@ function MobileAppServices() {
                 src={app}
                 alt="App Store"
                 style={{ width: "20px", marginRight: "10px" }}
+                  loading="lazy"
               />
               Get it on <strong className="ms-1">App Store</strong>
             </a>
@@ -39,6 +40,7 @@ function MobileAppServices() {
                 src= {play}
                 alt="Google Play"
                 style={{ width: "20px", marginRight: "10px" }}
+                  loading="lazy"
               />
               Get it on <strong className="ms-1">Google Play</strong>
             </a>
@@ -52,6 +54,7 @@ function MobileAppServices() {
             alt="Mobile Mockup"
             className="img-fluid"
             style={{ maxWidth: "80%" }}
+              loading="lazy"
           />
         </div>
       </div>

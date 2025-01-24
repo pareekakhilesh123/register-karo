@@ -88,6 +88,7 @@ function TestimonialsSection() {
                     alt={testimonial.name}
                     className="rounded-circle me-3"
                     style={{ width: '60px', height: '60px', objectFit: 'cover' }}
+                      loading="lazy"
                   />
                   <div>
                     <strong style={{ color: '#523e1e' }}>{testimonial.name}</strong>

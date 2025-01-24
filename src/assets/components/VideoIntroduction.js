@@ -18,6 +18,7 @@ function VideoIntroduction() {
             <h5>
               <span style={{ color: "#FFA229" }}>
                 <img src={photo1}
+                  loading="lazy"
                 alt='' />
               </span> Explore ideas together
             </h5>
@@ -29,7 +30,9 @@ function VideoIntroduction() {
             <h5>
               <span style={{ color: "#FFA229" }}>
               <img src={photo2}
-                alt='' />
+                alt=''
+                  loading="lazy"
+                 />
               </span> Bring those ideas to
               life
             </h5>

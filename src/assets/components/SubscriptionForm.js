@@ -36,6 +36,7 @@ function SubscriptionForm() {
 <img src={content}
 alt='Content'
 width={"100%"}
+  loading="lazy"
 
 />
     </div>
