@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/register-karo/static/css/main.04bd8426.css",
+    "main.css": "/register-karo/static/css/main.8ca150b5.css",
     "main.js": "/register-karo/static/js/main.c450a7cb.js",
     "static/css/326.31d6cfe0.chunk.css": "/register-karo/static/css/326.31d6cfe0.chunk.css",
     "static/js/326.b223a71d.chunk.js": "/register-karo/static/js/326.b223a71d.chunk.js",
@@ -44,7 +44,7 @@
     "static/media/1.svg": "/register-karo/static/media/1.611accd9b6c73db742be767afae8c27c.svg",
     "index.html": "/register-karo/index.html",
     "static/media/play.svg": "/register-karo/static/media/play.23f6021280d5c5b6a456c0fe8a7153f4.svg",
-    "main.04bd8426.css.map": "/register-karo/static/css/main.04bd8426.css.map",
+    "main.8ca150b5.css.map": "/register-karo/static/css/main.8ca150b5.css.map",
     "main.c450a7cb.js.map": "/register-karo/static/js/main.c450a7cb.js.map",
     "326.b223a71d.chunk.js.map": "/register-karo/static/js/326.b223a71d.chunk.js.map",
     "722.1ac51c49.chunk.css.map": "/register-karo/static/css/722.1ac51c49.chunk.css.map",
@@ -69,7 +69,7 @@
     "544.7245caf7.chunk.js.map": "/register-karo/static/js/544.7245caf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04bd8426.css",
+    "static/css/main.8ca150b5.css",
     "static/js/main.c450a7cb.js"
   ]
 }
