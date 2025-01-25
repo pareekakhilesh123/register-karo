@@ -18,8 +18,8 @@ function MobileAppServices() {
           </p>
           
           <div className="d-flex gap-3">
-            <a
-              href="#"
+            <a href='/'
+             
               className="btn btn-light d-flex align-items-center px-4 py-2"
               style={{ borderRadius: "10px" }}
             >
@@ -32,7 +32,7 @@ function MobileAppServices() {
               Get it on <strong className="ms-1">App Store</strong>
             </a>
             <a
-              href="#"
+              href="/"
               className="btn btn-light d-flex align-items-center px-4 py-2"
               style={{ borderRadius: "10px" }}
             >

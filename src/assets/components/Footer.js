@@ -16,34 +16,27 @@ const Footer = () => {
               matter of minutes.
             </p>
             <div className="d-flex justify-content-between">
-              <a href="#" className="text-light text-decoration-none">
+           
                 <img src={facebook} alt="Facebook" />
-              </a>
-              <a href="#" className="text-light text-decoration-none">
                 <img src={google} alt="Google" />
-              </a>
-              <a href="#" className="text-light text-decoration-none">
                 <img src={apple} alt="Apple" />
-              </a>
-              <a href="#" className="text-light text-decoration-none">
                 <img src={insta} alt="Instagram" />
-              </a>
             </div>
           </Col>
           <Col md={3}>
             <h5 style={{ color: "#EB8D15" }}>Start a Business</h5>
             <ul className="list-unstyled">
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Features</a>
+                <a href='/' className="text-light text-decoration-none">Features</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Solutions</a>
+                <a  href='/' className="text-light text-decoration-none">Solutions</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Integrations</a>
+                <a href='/' className="text-light text-decoration-none">Integrations</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Enterprise</a>
+                <a href='/' className="text-light text-decoration-none">Enterprise</a>
               </li>
             </ul>
           </Col>
@@ -51,16 +44,16 @@ const Footer = () => {
             <h5 style={{ color: "#EB8D15" }}>Government Registration</h5>
             <ul className="list-unstyled">
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Partners</a>
+                <a href="/" className="text-light text-decoration-none">Partners</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Community</a>
+                <a href="/" className="text-light text-decoration-none">Community</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Developers</a>
+                <a href="/" className="text-light text-decoration-none">Developers</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">App</a>
+                <a href="/" className="text-light text-decoration-none">App</a>
               </li>
             </ul>
           </Col>
@@ -68,16 +61,16 @@ const Footer = () => {
             <h5 style={{ color: "#EB8D15" }}>Compliance & Tax</h5>
             <ul className="list-unstyled">
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Channels</a>
+                <a href="/" className="text-light text-decoration-none">Channels</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Scale</a>
+                <a href="/" className="text-light text-decoration-none">Scale</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Watch the Demo</a>
+                <a href="/" className="text-light text-decoration-none">Watch the Demo</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Our Competition</a>
+                <a href="/" className="text-light text-decoration-none">Our Competition</a>
               </li>
             </ul>
           </Col>
@@ -85,23 +78,23 @@ const Footer = () => {
             <h5 style={{ color: "#EB8D15" }}>BIS & CDSCO</h5>
             <ul className="list-unstyled">
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">About Us</a>
+                <a href="/" className="text-light text-decoration-none">About Us</a>
 
 </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">News</a>
+                <a href="/" className="text-light text-decoration-none">News</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Leadership</a>
+                <a href="/" className="text-light text-decoration-none">Leadership</a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-light text-decoration-none">Media Kit</a>
+                <a href="/" className="text-light text-decoration-none">Media Kit</a>
               </li>
             </ul>
           </Col>
         </Row>
         <div className="text-center mt-4">
-          <a href="#" className="text-light">↑</a>
+          <a href="/" className="text-light">↑</a>
           <p className="mt-2">&copy; 2024 Registerkaro. All Rights Reserved.</p>
         </div>
       </Container>
